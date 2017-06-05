@@ -1,5 +1,5 @@
 main: aliuly\itemcasepe\Main
-api: [3.0.0-ALPHA5]
+api: [3.0.0,2.0.0,3.0.0-ALPHA6,3.0.0-ALPHA5]
 load: POSTWORLD
 
 name: ItemCasePE
